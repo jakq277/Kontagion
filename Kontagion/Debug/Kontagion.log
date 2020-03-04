@@ -1,0 +1,39 @@
+﻿  Actor.cpp
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(14,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(15,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(163,8): warning C4101: 'distance': unreferenced local variable
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(324,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(325,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(374,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(375,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(408,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(408,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(434,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(434,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(457,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(457,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(481,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.cpp(481,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  StudentWorld.cpp
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\Actor.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(34,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(34,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(43,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(43,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(59,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(59,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(185,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(199,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(236,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(246,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(256,88): warning C4244: '=': conversion from 'double' to 'Direction', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(264,79): warning C4244: 'return': conversion from 'double' to 'Direction', possible loss of data
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(285,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(296,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(307,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Kontagion\StudentWorld.cpp(338,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Kontagion.vcxproj -> C:\Users\Daniel Woo\Desktop\cs32\Kontagion\Debug\Kontagion.exe
